@@ -1,4 +1,4 @@
-name: Build and Deploy to GKE
+name: Test
 
 on:
   push:
